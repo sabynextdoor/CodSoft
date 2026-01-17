@@ -1,4 +1,8 @@
 Advanced Rule-Based AI Chatbot 🤖
+
+To run this simply install the python file and execute this for running this rule based chatbot on vs code or any python compiler.
+
+
 Overview
 A sophisticated rule-based chatbot built with Python that simulates intelligent conversations using pattern matching and contextual understanding. This project demonstrates fundamental NLP concepts through a complete, feature-rich chatbot implementation.
 
